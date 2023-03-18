@@ -1,4 +1,6 @@
 synthwave:
+  # lovelace background image
+  lovelace-background: "center / auto space url('/local/bglogo.png')"
   # text
   primary-text-color: '#fff'
   secondary-text-color: '#ffffffca'
