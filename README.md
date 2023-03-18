@@ -1,3 +1,7 @@
+A project I forked to make something for my employer. THX public license! All rights reserved as per appropriate license.
+
+
+
 # synthwave-hass
 
 [![Version](https://img.shields.io/badge/version-0.3.5-green.svg?style=flat-square&labelColor=2a2139&color=f92aad)](#)
